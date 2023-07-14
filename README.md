@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
 
@@ -66,11 +65,6 @@ Here are some ideas to get you started:
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
