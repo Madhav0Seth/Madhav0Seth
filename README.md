@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Passionate  and Self-taught student
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity
 
